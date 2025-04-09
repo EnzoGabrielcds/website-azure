@@ -17,5 +17,6 @@ Espaçamento – Margens, preenchimentos (padding) e espaçamentos entre element
 Layouts – Como os elementos são organizados na página, como alinhamento, grid, flexbox, etc.
 Efeitos visuais – Como transições, animações, sombras, entre outros.
 A principal vantagem do CSS é que ele permite separar o conteúdo (HTML) da apresentação (estilos), o que facilita a manutenção e o design do site. Você pode aplicar estilos a um único arquivo CSS que será referenciado em várias páginas HTML, promovendo consistência no visual.
-HTML
-O HTML é uma linguagem de marcação que define a estrutura e o conteúdo de uma página web. Ele utiliza tags para organizar e estruturar o conteúdo, como textos, imagens, links, tabelas, listas, entre outros
+
+
+
